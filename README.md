@@ -2,7 +2,7 @@
 
 ## Project Description : 
 
-                      This project is all about navigating to a page where we can do shopping for printers-> Inkjet printers to select a product, adding it to the basket
+                      This project is all about navigating to a page where we can do shopping printers-> Inkjet printers to select a product, adding it to the basket
                       and all the way to checkout.
 ## Navigation :        
                       1. Navigating to the Homepage https://www.cartridgepeople.com/
