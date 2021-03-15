@@ -17,7 +17,9 @@
                       1. Install Eclipse https://www.eclipse.org/downloads/
                       2. Install Java SE Development Kit https://www.oracle.com/uk/java/technologies/javase-jdk11-downloads.html
                       3. Install Maven into Eclipse Help->Marketplace->Maven
-                      4. For Chromedriver Version 89.0.4389.90 
+                      4. Chromedriver Version 89.0.4389.90 
+                      5. On windows system, download chromedriver_win32.zip for version 89.0.4389.90, extract the zip and add the file to third party tools.
+                      6. On Mac system, download chromedrive_mac64_m1.zip for version 89.0.4389.90, extract the zip and add the file to third party tools.
                       
 ## To Run project:  
 
