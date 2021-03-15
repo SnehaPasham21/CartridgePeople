@@ -17,7 +17,7 @@
                       1. Install Eclipse https://www.eclipse.org/downloads/
                       2. Install Java SE Development Kit https://www.oracle.com/uk/java/technologies/javase-jdk11-downloads.html
                       3. Install Maven into Eclipse Help->Marketplace->Maven
-                      4. For Chromedriver  Version 89.0.4389.90 
+                      4. For Chromedriver Version 89.0.4389.90 
                       
 ## To Run project:  
 
@@ -26,7 +26,10 @@
                      
 ## Generating Cucumber Report:
 
-                      Rightclick on cucumber-report.html and Openwith Webbrowser.
+                      To generate report H2ecommerce->Target->cucumber->cucumber-report.html--Right click and open with web browser.
+                      You can see the Test scenario report.
+                      
+                      I have done this project using Apple mac laptop 
                       
 
                       
