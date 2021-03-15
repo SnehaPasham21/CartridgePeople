@@ -17,10 +17,8 @@
                       1. Install Eclipse https://www.eclipse.org/downloads/
                       2. Install Java SE Development Kit https://www.oracle.com/uk/java/technologies/javase-jdk11-downloads.html
                       3. Install Maven into Eclipse Help->Marketplace->Maven
-                      4. To Install Junit Help->Install New Software.
-                      5. Selenium JarFiles https://www.selenium.dev/downloads/
-                      6. For Chromedriver https://chromedriver.chromium.org/downloads  Version 89.0.4389.90 (Official Build) (x86_64) 
-                      7. For Cucumber Dependencies https://cucumber.io/docs/installation/java/
+                      4. For Chromedriver  Version 89.0.4389.90 
+                      
 ## To Run project:  
 
                       1. To Run project Select H2ecommerce->src->test->Java->Runner->Runnerclass.java
