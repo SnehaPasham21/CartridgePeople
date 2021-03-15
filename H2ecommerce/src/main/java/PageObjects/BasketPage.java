@@ -10,6 +10,7 @@ public class BasketPage extends Baseclass {
 	
 	/*** Properties ***/
 	private String productDetails = "//div[@class='product-detail']/a";
+			//"//div[@class='product-detail']/a";
 	private String quantitySelected = "//div[@class='product-quantity']/select//option[@selected='selected']";
 	private String itemPrice = "//div[@class='individual-price individual-price--single']/span/span[2]";
 	private String totalPrice = "//div[@class='line-total']/div/span/span[2]";

@@ -12,7 +12,7 @@ public class BrowserControl extends Baseclass {
 	
 		if(BrowserType.equals("Chrome")) {
 			
-			System.setProperty("webdriver.chrome.driver","src/main/java/thirdpartyTools/chromedriver" );
+			System.setProperty("webdriver.chrome.driver","src/main/java/thirdpartyTools/chromedriver.exe" );
 			browser =new ChromeDriver();
 			
 			browser.manage().window().maximize();
